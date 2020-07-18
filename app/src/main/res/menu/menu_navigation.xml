@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_drinks"
+        android:icon="@drawable/drinksicon"
+        android:title="Drinks"/>
+    <item
+        android:id="@+id/nav_foods"
+        android:icon="@drawable/foodsicon"
+        android:title="Foods"/>
+    <item
+        android:id="@+id/nav_beans"
+        android:icon="@drawable/beansicon"
+        android:title="Whole Beans"/>
+    <item
+        android:id="@+id/nav_tumbler"
+        android:icon="@drawable/tumblericon"
+        android:title="Tumbler"/>
+
+</menu>
